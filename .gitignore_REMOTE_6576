@@ -7,8 +7,6 @@ myapp/release.properties
 myapp/dependency-reduced-pom.xml
 myapp/buildNumber.properties
 myapp/.mvn/timing.properties
-<<<<<<< HEAD
-=======
 
 mylib/target/
 mylib/pom.xml.tag
@@ -29,7 +27,6 @@ lib01/release.properties
 lib01/dependency-reduced-pom.xml
 lib01/buildNumber.properties
 lib01/.mvn/timing.properties
->>>>>>> aecce0508147cd3215cafccc6cabb38035be6f68
 
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
